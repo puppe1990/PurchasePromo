@@ -1,0 +1,15 @@
+{
+	"products" : [
+		{
+			"name" : "Conjunto Atena",
+			"price" : "70.00",
+			"options" : [
+				{ "Tamanho" : "Único" },
+				{ "Cor" : "Preto,Vermelho,Branco,Rosa" }
+			],
+			"image" : "images/conjunto-atena-1.jpg",
+			"image2" : "images/conjunto-atena-2.jpg",
+			"description" : "Conjunto com bojo Malha Crepe tamanho único (36 ao 42)."
+		}
+	]
+}
