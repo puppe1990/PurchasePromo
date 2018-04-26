@@ -1,15 +1,178 @@
 {
 	"products" : [
 		{
-			"name" : "Conjunto Atena",
-			"price" : "70.00",
+			"name" : "Body laranja cavado",
+			"price" : "39.90",
 			"options" : [
-				{ "Tamanho" : "Único" },
-				{ "Cor" : "Preto,Vermelho,Branco,Rosa" }
+				{ "Tamanho" : "Único" }
 			],
-			"image" : "images/conjunto-atena-1.jpg",
-			"image2" : "images/conjunto-atena-2.jpg",
-			"description" : "Conjunto com bojo Malha Crepe tamanho único (36 ao 42)."
+			"image" : "images/body-laranja-cavado-1.jpg",
+			"description" : "Body laranja cavado Tamanho único (36 ao 40) Com bojo."
+		},
+		{
+			"name" : "Body verde folhas cavado" ,
+			"price" : "39.90",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "images/body-verde-folhas-cavado-1.jpg",
+			"description" : "Body verde folhas cavado Tamanho único (36 ao 40) Com bojo."
+		},
+		{
+			"name" : "Macaquinho tropical" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "images/macaquinho-tropical-1.jpg",
+			"description" : "Macaquinho tropical Tamanho único (36 ao 40) sem bojo."
+		},
+		{
+			"name" : "Macaquinho folhas" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "images/macaquinho-folhas-1.jpg",
+			"description" : "Macaquinho folhas Tamanho único (36 ao 40) sem bojo."
+		},
+		{
+			"name" : "Vestido preto renda alça" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "images/vestido-preto-renda-alca-1.jpg",
+			"description" : "Vestido preto renda alça Tamanho único (36 ao 40) com bojo."
+		},
+		{
+			"name" : "Vestido nó cinza" ,
+			"price" : "50.00",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "images/vestido-no-cinza-1.jpg",
+			"description" : "Vestido nó cinza Tamanho único (36 ao 40) com bojo."
+		},
+		{
+			"name" : "Conjunto napolitano saia + cropped" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "images/conjunto-napolitano-1.jpg",
+			"description" : "Conjunto napolitano saia + cropped Tamanho único (36 ao 40) com bojo."
+		},
+		{
+			"name" : "Macaquinho viscose listrado" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "images/macaquinho-viscose-listrado-1.jpg",
+			"description" : "Macaquinho viscose listrado Tamanho único (36 ao 40) com bojo."
+		},
+		{
+			"name" : "Cropped ciganinha estampado" ,
+			"price" : "30.00",
+			"options" : [
+				{ "Tamanho" : "36" }
+			],
+			"image" : "images/cropped-ciganinha-estampado-1.jpg",
+			"description" : "Cropped ciganinha estampado Tamanho único (36 ao 40) com bojo."
+		},
+		{
+			"name" : "Calça lady rock branca" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "36,38" }
+			],
+			"image" : "images/calca-lady-rock-branca-1.jpg",
+			"description" : "Calça lady rock branca  sem elastano cintura normal."
+		},
+		{
+			"name" : "Calça lady rock azul bordado" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "36,38" }
+			],
+			"image" : "images/calca-lady-rock-azul-bordado-1.jpg",
+			"description" : "Calça da Lady Rock sem elastano cintura normal."
+		},
+		{
+			"name" : "Moleton ice scream" ,
+			"price" : "65.00",
+			"options" : [
+				{ "Tamanho" : "único" },
+				{ "Cor": "Cinza,Rosa"}
+			],
+			"image" : "images/moleton-ice-scream-1.jpg",
+			"description" : "Moleton forrado colorido serve do 36 ao 42."
+		},
+		{
+			"name" : "Vestido alcinha costas nua" ,
+			"price" : "60.00",
+			"options" : [
+				{ "Tamanho" : "único" }
+			],
+			"image" : "images/vestido-alcinha-costas-nua-1.jpg",
+			"description" : "Vestido costas aberta com bojo tecido suplex."
+		},
+		{
+			"name" : "Macacão nó suplex" ,
+			"price" : "50.00",
+			"options" : [
+				{ "Tamanho" : "único" }
+			],
+			"image" : "images/macacao-no-suplex-1.jpg",
+			"description" : "Macacão suplex com bojo (36 ao 42)."
+		},
+		{
+			"name" : "Body preto básico" ,
+			"price" : "39.90",
+			"options" : [
+				{ "Tamanho" : "único" }
+			],
+			"image" : "images/body-preto-basico-1.jpg",
+			"image2" : "images/body-preto-basico-2.jpg",
+			"description" : "Body alça, com bojo tamanho único (36 ao 42)."
+		},
+		{
+			"name" : "Body Rose básico" ,
+			"price" : "39.90",
+			"options" : [
+				{ "Tamanho" : "único" }
+			],
+			"image" : "images/body-rose-basico-1.jpg",
+			"image2" : "images/body-rose-basico-2.jpg",
+			"description" : "Body alça, com bojo tamanho único (36 ao 42)."
+		},
+		{
+			"name" : "Cropped ciganinha preto" ,
+			"price" : "35.00",
+			"options" : [
+				{ "Tamanho" : "único" }
+			],
+			"image" : "images/cropped-ciganinha-preto-1.jpg",
+			"description" : "Cropped ciganinha preto, Tamanho único(36 ao 42) com bojo."
+		},
+		{
+			"name" : "Short envelope marsala" ,
+			"price" : "45.00",
+			"options" : [
+				{ "Tamanho" : "único" }
+			],
+			"image" : "images/short-envelope-marsala-1.jpg",
+			"description" : "Short envelope marsala, Tamanho único (36 ao 42) malha crepe."
+		},
+		{
+			"name" : "Camisetão de tule" ,
+			"price" : "40.00",
+			"options" : [
+				{ "Tamanho" : "único" }
+			],
+			"image" : "images/camisetao-tule-1.jpg",
+			"description" : "Camisetão de tule, Tamanho único 36 ao 42) tecido tule."
 		}
 	]
 }
