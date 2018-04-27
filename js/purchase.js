@@ -19,7 +19,7 @@ function fazerPedido() {
 
     let produtos = "";
 
-    let inicio = "Olá estou comprando pela Purchase Atacado. ";
+    let inicio = "Olá estou comprando pela Purchase Promo. ";
 
     for (var key in produto) {
         produtos += " QUERO COMPRAR: " + produto[key].quantity + " " + produto[key].name + " DA COR " + produto[key].cor + " NO TAMANHO " + produto[key].tamanho + " POR " + produto[key].price + " CADA.";
