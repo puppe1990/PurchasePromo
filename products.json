@@ -1,24 +1,6 @@
 {
 	"products" : [
 		{
-			"name" : "Body laranja cavado",
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "images/body-laranja-cavado-1.jpg",
-			"description" : "Body laranja cavado Tamanho único (36 ao 40) Com bojo."
-		},
-		{
-			"name" : "Body verde folhas cavado" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "images/body-verde-folhas-cavado-1.jpg",
-			"description" : "Body verde folhas cavado Tamanho único (36 ao 40) Com bojo."
-		},
-		{
 			"name" : "Macaquinho tropical" ,
 			"price" : "65.00",
 			"options" : [
@@ -126,16 +108,6 @@
 			],
 			"image" : "images/macacao-no-suplex-1.jpg",
 			"description" : "Macacão suplex com bojo (36 ao 42)."
-		},
-		{
-			"name" : "Body preto básico" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "único" }
-			],
-			"image" : "images/body-preto-basico-1.jpg",
-			"image2" : "images/body-preto-basico-2.jpg",
-			"description" : "Body alça, com bojo tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Body Rose básico" ,
@@ -283,15 +255,6 @@
 			"description" : "Vestido De Alcinha Off Branca, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Vestido Renda Branca Cauda Atras" ,
-			"price" : "60.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1518712740833.jpg",
-			"description" : "Vestido Renda Branca Cauda Atras, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Cropped Blusinha Branca De Amarrar Nó" ,
 			"price" : "35.00",
 			"options" : [
@@ -429,15 +392,6 @@
 			"description" : "Body/Maio branco folhagens verde flores vermelho, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Body/Maio preto x costas" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517981224742.jpg",
-			"description" : "Body/Maio preto x costas, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Body/Maio aberto cintura rosa flores" ,
 			"price" : "39.90",
 			"options" : [
@@ -535,15 +489,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1517867482324.jpg",
 			"description" : "Vestido listrado preto canelado, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Body/Maio palmeiras cavado verde" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517867436630.jpg",
-			"description" : "Body/Maio palmeiras cavado verde, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Body/Maio escama cavado Rosa promo" ,
