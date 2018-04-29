@@ -597,6 +597,78 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1521331524782.jpg",
 			"description" : "Blusa preta Givenchy, Tamanho único (36 ao 42)."
+		},
+		{
+			"name" : "Blusinha Rosa Com Flores Amarelas" ,
+			"price" : "35.00",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1520365355230.jpg",
+			"description" : "Blusinha Rosa Com Flores Amarelas, Tamanho único (36 ao 42)."
+		},
+		{
+			"name" : "Blusa Cinza Xadrez Comprida" ,
+			"price" : "69.90",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1523410701651.jpeg",
+			"description" : "Blusa Cinza Xadrez Comprida, Tamanho único (36 ao 42)."
+		},
+		{
+			"name" : "Vestido pescoço aberto no peito branco PROMO" ,
+			"price" : "19.90",
+			"options" : [
+				{ "Tamanho" : "Único" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1517982183914.jpg",
+			"description" : "Vestido pescoço aberto no peito branco PROMO, Tamanho único (36 ao 42)."
+		},
+		{
+			"name" : "Biquini Rosa NEON BABADO" ,
+			"price" : "69.90",
+			"options" : [
+				{ "Tamanho" : "M" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1517675193788.jpg",
+			"description" : "Biquini Rosa NEON BABADO, Tamanho M."
+		},
+		{
+			"name" : "Biquini Conjunto Rosa BABADO" ,
+			"price" : "69.90",
+			"options" : [
+				{ "Tamanho" : "G" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1518010009790.JPG",
+			"description" : "Biquini Conjunto Rosa BABADO, Tamanho G."
+		},
+		{
+			"name" : "Biquini CONJUNTO veludo rosa" ,
+			"price" : "69.90",
+			"options" : [
+				{ "Tamanho" : "M" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1517809284860.jpg",
+			"description" : "Biquini CONJUNTO veludo rosa, Tamanho M."
+		},
+		{
+			"name" : "Biquini CONJUNTO Pink Pedraria" ,
+			"price" : "69.90",
+			"options" : [
+				{ "Tamanho" : "P" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1517809212701.jpg",
+			"description" : "Biquini CONJUNTO Pink Pedraria, Tamanho P."
+		},
+		{
+			"name" : "Biquini CONJUNTO Veludo Preto" ,
+			"price" : "69.90",
+			"options" : [
+				{ "Tamanho" : "M" }
+			],
+			"image" : "http://46.101.53.162/images/produtos/1517868493847.jpg",
+			"description" : "Biquini CONJUNTO Veludo Preto, Tamanho M."
 		}
 	]
 }
