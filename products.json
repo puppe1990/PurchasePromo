@@ -365,15 +365,6 @@
 			"description" : "Cropped Cinza Canelado De Nó, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Body Tule Preto" ,
-			"price" : "45.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517984387891.jpg",
-			"description" : "Body Tule Preto, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Vestido Branco de ilhos trançado cordinha" ,
 			"price" : "19.90",
 			"options" : [
@@ -408,15 +399,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1517980826587.jpg",
 			"description" : "Body/Maio aberto cintura laranja flores, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Body/Maio off palmeiras florzinhas laranjas" ,
-			"price" : "45.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517871274704.jpg",
-			"description" : "Body/Maio off palmeiras florzinhas laranjas, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Body/Maio bruna marquezine aberto preto" ,
@@ -579,15 +561,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1520614078809.jpg",
 			"description" : "Body verde musgo, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Blusa versace rosa" ,
-			"price" : "45.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1524863305428.jpg",
-			"description" : "Blusa versace rosa, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Blusa preta Givenchy" ,
