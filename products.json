@@ -446,15 +446,6 @@
 			"description" : "Body/Maio rosa unicornio promo, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Body/Maio escama cavado Rosa promo" ,
-			"price" : "19.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517867327960.jpg",
-			"description" : "Body/Maio escama cavado Rosa promo, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Vestido OFF alcinha" ,
 			"price" : "39.90",
 			"options" : [
