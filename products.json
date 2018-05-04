@@ -37,15 +37,6 @@
 			"description" : "Vestido nó cinza Tamanho único (36 ao 40) com bojo."
 		},
 		{
-			"name" : "Conjunto napolitano saia + cropped" ,
-			"price" : "65.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "images/conjunto-napolitano-1.jpg",
-			"description" : "Conjunto napolitano saia + cropped Tamanho único (36 ao 40) com bojo."
-		},
-		{
 			"name" : "Macaquinho viscose listrado" ,
 			"price" : "65.00",
 			"options" : [
@@ -410,15 +401,6 @@
 			"description" : "Body/Maio bruna marquezine aberto preto, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Body/Maio penas de pavão" ,
-			"price" : "45.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517869881377.jpg",
-			"description" : "Body/Maio penas de pavão, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Macaquinho aberto nó listrado branco flores" ,
 			"price" : "65.00",
 			"options" : [
@@ -464,15 +446,6 @@
 			"description" : "Body/Maio rosa unicornio promo, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Vestido listrado preto canelado" ,
-			"price" : "45.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517867482324.jpg",
-			"description" : "Vestido listrado preto canelado, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Body/Maio escama cavado Rosa promo" ,
 			"price" : "19.90",
 			"options" : [
@@ -480,15 +453,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1517867327960.jpg",
 			"description" : "Body/Maio escama cavado Rosa promo, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Saia Vermelha tiras" ,
-			"price" : "45.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517378046535.JPG",
-			"description" : "Saia Vermelha tiras, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Vestido OFF alcinha" ,
@@ -543,15 +507,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1517801753964.jpg",
 			"description" : "Cropped rosa unicornios, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Body fundo branco flores verm verde" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1519829247974.jpg",
-			"description" : "Body fundo branco flores verm verde, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Body verde musgo" ,
