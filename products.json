@@ -246,15 +246,6 @@
 			"description" : "Vestido De Alcinha Off Branca, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Cropped Blusinha Branca De Amarrar Nó" ,
-			"price" : "35.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1524863011391.jpg",
-			"description" : "Cropped Blusinha Branca De Amarrar Nó, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Blusinha Rosa Com Flores Amarelas" ,
 			"price" : "35.00",
 			"options" : [
@@ -291,15 +282,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1518017503170.jpg",
 			"description" : "Body/Maio Rosa Conchas, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Cropped Blusinha Salmão De Amarrar Nó" ,
-			"price" : "35.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1518921092566.jpg",
-			"description" : "Cropped Blusinha Salmão De Amarrar Nó, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Saia Jeans Botões Azul Escuro" ,
@@ -365,24 +347,6 @@
 			"description" : "Vestido Branco de ilhos trançado cordinha, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Body/Maio branco folhagens verde flores vermelho" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517981245853.jpg",
-			"description" : "Body/Maio branco folhagens verde flores vermelho, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Body/Maio aberto cintura rosa flores" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517980861833.jpg",
-			"description" : "Body/Maio aberto cintura rosa flores, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Body/Maio aberto cintura laranja flores" ,
 			"price" : "39.90",
 			"options" : [
@@ -399,15 +363,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1517870993693.jpg",
 			"description" : "Body/Maio bruna marquezine aberto preto, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Macaquinho aberto nó listrado branco flores" ,
-			"price" : "65.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1517869702704.jpg",
-			"description" : "Macaquinho aberto nó listrado branco flores, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Short Envelope Rosa Forte" ,
