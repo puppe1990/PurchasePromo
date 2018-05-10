@@ -192,24 +192,6 @@
 			"description" : "Body/Maio Preto Corda Decote E Aberto Cintura, Tamanho único (36 ao 42)."
 		},
 		{
-			"name" : "Body/Maio Fundo Azul Mix Flores" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1518902393265.jpg",
-			"description" : "Body/Maio Fundo Azul Mix Flores, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Body/Maio Preto Liso X Decotao" ,
-			"price" : "39.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1518025115457.jpg",
-			"description" : "Body/Maio Preto Liso X Decotao, Tamanho único (36 ao 42)."
-		},
-		{
 			"name" : "Vestido Branco Renda Aberto Cintura Botões Na Frente" ,
 			"price" : "60.00",
 			"options" : [
@@ -235,15 +217,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1518204125100.jpeg",
 			"description" : "Vestido Preta Renda De Decote V, Tamanho único (36 ao 42)."
-		},
-		{
-			"name" : "Vestido De Alcinha Off Branca" ,
-			"price" : "49.90",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://purchasesistemas.win/images/produtos/1524862405859.jpg",
-			"description" : "Vestido De Alcinha Off Branca, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Blusinha Rosa Com Flores Amarelas" ,
@@ -291,15 +264,6 @@
 			],
 			"image" : "http://46.101.53.162/images/produtos/1518920941960.jpg",
 			"description" : "Saia Jeans Botões Azul Escuro, Tamanho M."
-		},
-		{
-			"name" : "Blusa Preta De Amarrar Aberto Em V Nas Costas" ,
-			"price" : "35.00",
-			"options" : [
-				{ "Tamanho" : "Único" }
-			],
-			"image" : "http://46.101.53.162/images/produtos/1518011740707.jpg",
-			"description" : "Blusa Preta De Amarrar Aberto Em V Nas Costas, Tamanho único (36 ao 42)."
 		},
 		{
 			"name" : "Vestido Branco FRENTE UNICA" ,
